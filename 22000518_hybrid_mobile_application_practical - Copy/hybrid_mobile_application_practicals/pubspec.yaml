@@ -66,6 +66,14 @@ dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
+assets:
+-asset/237249_small.mp4
+-asset/NUVimage.png
+-asset/about-nuv.txt
+-asset/my-data.json
+-asset/nature-216798.mp3
+
+
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
